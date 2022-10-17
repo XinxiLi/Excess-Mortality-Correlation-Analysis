@@ -12,5 +12,5 @@ The cross-sectional log-linear model has adjusted R^2=0.77,F statistic=61.09. Th
 ## Discussion
 At a global scale, the reported COVID-19 death has the most explanatory power in excess mortality, which means that most of excess mortality is attributed to death from COVID-19 infections. Aging rate has a negative correlation between excess mortality, this is partly because of the preference of aged population to live in countries with better health care capacities. There is no significant explanatory power of stringency index on excess mortality, suggesting that the impact of government responses on COVID-19 vary by each nation. On a country level, the correlation between COVID-19 death and excess mortality can also vary, mostly due to the different levels of health care disruptions, efficiency and impact of government measures and other COVID-19 unrelated events such as wars and heat waves.
 
-## Keywords: 
+## Keywords 
 Excess mortality, COVID-19, all-cause excess mortality, government response, population aging, health care disruption
